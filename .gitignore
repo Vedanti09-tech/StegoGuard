@@ -1,0 +1,19 @@
+# Node modules
+client/node_modules/
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Uploaded media files
+server/uploads/
+
+# OS generated
+.DS_Store
+Thumbs.db
